@@ -1,5 +1,5 @@
-node_modules/
-yarn.lock
-.DS_Store
-build/
-src/config.js
+Frontend/node_modules/
+Frontend/yarn.lock
+Frontend/.DS_Store
+Frontend/build/
+Frontend/src/config.js
