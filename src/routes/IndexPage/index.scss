@@ -1,0 +1,51 @@
+.black {
+  background: #000;
+  width: 100%;
+}
+.infomation {
+  padding: 20px;
+  color: #fff;
+  font-family: 'Kanit', sans-serif;
+  font-size: 18px;
+}
+.infomation > div {
+  font-family: 'Playfair Display', serif;
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.header {
+  font-family: 'Playfair Display', serif;
+  display: block;
+  font-size: 25px;
+  letter-spacing: 1px;
+}
+.subheader {
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  margin-top: 15px;
+  display: block;
+  color: #777;
+}
+.divider {
+  width: 100%;
+  margin-top: 20px;
+  height: 70px;
+  background: url(img/div.png);
+  background-size: auto 70px;
+}
+.padding {
+  padding-top: 50px;
+}
+
+.online {
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+
+@media screen and (max-width: 1000px){
+  .padding {
+    padding-top: 10px;
+  }
+}

@@ -1,0 +1,46 @@
+.subheader {
+  font-family: 'Kanit', sans-serif;
+}
+.active {
+  border: 3px solid #4C84FF;
+  border-radius: 5px;
+  margin-bottom: 4px;
+}
+.unactive {
+  border: 3px solid #f0f0f0;
+  border-radius: 5px;
+  margin-bottom: 4px;
+}
+
+.heading {
+  font-family: 'Kanit', sans-serif;
+  font-size: 22px;
+}
+
+.error {
+  font-family: 'Kanit', sans-serif;
+  text-align: center;
+  display: block;
+  width: 100%;
+  font-size: 20px;
+  color: red;
+}
+
+.facebook {
+  font-family: 'Kanit', sans-serif;
+  background: #1C56FB;
+  width: 100%;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+  display: block;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  transition: 0.3s;
+}
+.facebook:hover {
+  background: #4080FF;
+  color: white;
+  text-decoration: none;
+}
